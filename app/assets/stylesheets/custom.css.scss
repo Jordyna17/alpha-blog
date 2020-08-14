@@ -1,9 +1,7 @@
 @import 'bootstrap/dist/css/bootstrap';
 
 .navbar {
-
 background-color: black !important;
-
 }
 
 .nav-link {
@@ -30,6 +28,14 @@ background-color: black !important;
   background-size: cover;
   height: 425px;
 }
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+
 
 // .card img{
 //   width:300px;
